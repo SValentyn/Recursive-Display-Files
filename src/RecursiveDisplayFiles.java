@@ -2,8 +2,8 @@ import java.io.File;
 import java.util.Scanner;
 
 /**
- * This class is a simple implementation of the recursive display of the names of subdirectories and files
- * along a specified path in the form of a tree structure.
+ * A simple implementation of the recursive display in the form of a tree structure of
+ * the names of subdirectories and files in a given path.
  *
  * @author Syniuk Valentyn
  */
